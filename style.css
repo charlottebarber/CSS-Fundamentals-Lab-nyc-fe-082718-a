@@ -29,7 +29,7 @@ section#details {
   display: block;
 list-style: none;
 }
-div {
+section > div {
   float:left;
 }
 
