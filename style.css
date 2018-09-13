@@ -32,7 +32,10 @@ list-style: none;
 section > div {
   float:left;
 }
-
+div {
+  text-align: center;
+  width: 25%;
+}
 
 /*#details a {*/
 /*  list-style: none;*/
