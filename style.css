@@ -25,9 +25,9 @@ figure > figcaption {
     margin-right: auto;
     width: 800px
 }
-/*p#details { */
-/*  display: block;*/
-/*}*/
+p#details { 
+  display: block;
+}
 
 #details a {
   list-style: none;
