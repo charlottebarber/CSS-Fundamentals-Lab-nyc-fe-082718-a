@@ -25,13 +25,15 @@ figure > figcaption {
     margin-right: auto;
     width: 800px
 }
-p#details { 
+section#details { 
   display: block;
+list-style: none;
+
 }
 
-#details a {
-  list-style: none;
-}
-#details a {
-  display: block;
-}
+/*#details a {*/
+/*  list-style: none;*/
+/*}*/
+/*#details a {*/
+/*  display: block;*/
+/*}*/
