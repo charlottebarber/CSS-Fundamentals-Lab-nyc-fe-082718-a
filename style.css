@@ -29,7 +29,9 @@ section#details {
   display: block;
 list-style: none;
 }
-
+div {
+  float:left;
+}
 
 
 /*#details a {*/
